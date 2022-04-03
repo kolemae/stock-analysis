@@ -13,12 +13,14 @@ This analysis was for Steve, who had clients interested in green stocks. The cli
 
 ## Summary
 Advantages of refactoring
+- Uses existing script
 - Improved quality
 - Faster run time
 - More organized and easier to read
 
 Disadvantages of refactoring
 - Retesting functionality
+- Strong understanding of VBA needed to improve efficiency
 - Time consuming
 - Existing code doesn't account for future dataset
 
