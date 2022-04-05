@@ -22,7 +22,7 @@ Run times for the refactored code were 5 times faster than the original code for
 
 ![Refactored 2018 Timer](Resources/2018_refactored.png)
 
-From this analysis I would recommend Steve invests in "RUN" and "ENPH" stocks for his clients, since their returns remained positive in 2017 and 2018.
+From this analysis I would recommend Steve invests in "RUN" and "ENPH" stocks for his clients, as their returns remained positive in 2017 and 2018.
 
 ## Summary
 Advantages of refactoring
