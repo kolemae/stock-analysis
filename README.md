@@ -1,5 +1,5 @@
 # Green Stocks Analysis
-Used VBA for stocks analysis and refactored code.
+Used VBA for stocks analysis and refactored code for future use on expanded datset.
 
 ## Table of contents
 * [Overview of Project](#overview-of-project)
